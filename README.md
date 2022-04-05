@@ -7,5 +7,6 @@ There are 2 scripts that are exactly the same besides how they handle the percen
 Once you run it, you will be asked which playlists (and percentage, depending on which script) you'd like songs from. You're also asked what you'd like the length and name of the resultant playlist to be. Once it finishes running, you'll have a new playlist in your library.<br><br>
 **Below is an example run w/ custom percentages**<br>
 For the custom percentages script, when you're taking percentages of a small number you will often end up with different percentages in the end. So for that script, the true percentages of the playlist will be printed at the end.<br>
-<img align="left" src="https://github.com/GeorgeD88/MusicRecommendations/blob/main/static_playlist_run.png" alt="Example program run" width="45%">
-<img align="left" src="https://github.com/GeorgeD88/MusicRecommendations/blob/main/static_playlist_result.png" alt="Resulting playlist" width="45%">
+<img align="left" src="https://github.com/GeorgeD88/Playlist-Mixer/blob/main/static_playlist_run.png" alt="Example program run" width="75%">
+<br>
+<img align="left" src="https://github.com/GeorgeD88/Playlist-Mixer/blob/main/static_playlist_result.png" alt="Resulting playlist" width="75%">
