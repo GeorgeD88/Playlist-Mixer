@@ -29,7 +29,7 @@ def divide_chunks(track_list: list, n: int):
     for i in range(0, len(track_list), n):
         yield track_list[i:i + n]
 
-def page_results(sp, results: dict, access=[]):
+def page_results(sp, results: dict):
     """ Pages results. """
     while results['next']:
         results = sp.next(results)
