@@ -29,7 +29,7 @@ while input_line != '':
     # unpacks the and processes the inputs properly
     ratio, plist = float(split_input[0]), split_input[1] if split_input[1][:8] != 'https://' else split_input[1].split('/')[4].split('?')[0]
 
-    # checks if playlist was already added
+    # checks if playlist was already inputted
     if plist in playlists:
         print('\nThis playlist was already inputted\n')
         input_line = input()
